@@ -1,0 +1,12 @@
+{
+    "name": "alejandro/scratch-api",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alejandro",
+            "email": "alejandro.devop@gmail.com"
+        }
+    ],
+    "require": {}
+}
